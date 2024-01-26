@@ -16,7 +16,7 @@
     </div>
 
     <div class="container">
-
+        <h1>Hai</h1>
     </div>
 </x-app-layout>
 
